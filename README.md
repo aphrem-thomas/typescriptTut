@@ -1,0 +1,2 @@
+# typescriptTut
+Learning typesctipt
