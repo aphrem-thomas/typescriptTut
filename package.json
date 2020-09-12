@@ -1,0 +1,19 @@
+{
+  "name": "typescripttut",
+  "version": "1.0.0",
+  "description": "Learning typesctipt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aphrem-thomas/typescriptTut.git"
+  },
+  "author": "AphremThomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aphrem-thomas/typescriptTut/issues"
+  },
+  "homepage": "https://github.com/aphrem-thomas/typescriptTut#readme"
+}
